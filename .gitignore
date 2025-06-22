@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+
+# Virtual environment
+venv/
+env/
+
+# SQLite databases (ignore development databases)
+# *.db
+# *.sqlite
+# *.sqlite3
+
+# Environment variables
+.env
+.env.local
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Test files
+test.db
